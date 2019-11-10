@@ -4,7 +4,7 @@ public class JavaBeans {
 
     public static void main(String[] args) {
 
-        // JavaBeans Pattern - allows inconsistency, mandates mutability, a JavaBean object
+        //JavaBeans Pattern - allows inconsistency, mandates mutability, a JavaBean object
         // may be in an inconsistent state partway through its construction.
 
         final NutritionFacts fries = new NutritionFacts();
