@@ -1,4 +1,4 @@
-package chap2_creating_destroying_obj;
+package chap2_creating_destroying_obj.constructor_parameters;
 
 public class JavaBeans {
 
