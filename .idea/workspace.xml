@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7c77b1d-93a8-4429-b924-797778e5fc19" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/PublicFinalField.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/TestSingletons.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/StaticFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_destroying_obj/singleton/TestSingletons.class" afterPath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_destroying_obj/singleton/TestSingletons.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/PublicFinalField.java" afterPath="$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/PublicFinalField.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/TestSingletons.java" afterPath="$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/TestSingletons.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,24 +31,39 @@
       <file leaf-file-name="PublicFinalField.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/PublicFinalField.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#469#470#0" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#575#576#0" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestSingletons.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestSingletons.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/TestSingletons.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="12" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StaticFactory.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/StaticFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="87" lean-forward="true" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
+              <folding>
+                <element signature="e#432#433#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#513#514#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,8 +114,9 @@
         <option value="$PROJECT_DIR$/src/chap2_creating_destroying_obj/constructor_parameters/JavaBeans.java" />
         <option value="$PROJECT_DIR$/src/chap2_creating_destroying_obj/Telescoping.java" />
         <option value="$PROJECT_DIR$/src/chap2_creating_destroying_obj/constructor_parameters/Telescoping.java" />
-        <option value="$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/PublicFinalField.java" />
         <option value="$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/TestSingletons.java" />
+        <option value="$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/PublicFinalField.java" />
+        <option value="$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/StaticFactory.java" />
       </list>
     </option>
   </component>
@@ -457,24 +475,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/TestSingletons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/PublicFinalField.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/TestSingletons.java">
+    <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/StaticFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="75">
+          <caret line="5" column="87" lean-forward="true" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
+          <folding>
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

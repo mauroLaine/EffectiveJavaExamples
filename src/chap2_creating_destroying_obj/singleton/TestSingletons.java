@@ -8,5 +8,8 @@ public class TestSingletons {
 
         final PublicFinalField.Elvis elvis = PublicFinalField.Elvis.INSTANCE;
         elvis.singVivaLasVegas();
+
+        final StaticFactory.Elvis elvis1 = StaticFactory.Elvis.getInstance();
+        elvis1.singVivaLasVegas();
     }
 }

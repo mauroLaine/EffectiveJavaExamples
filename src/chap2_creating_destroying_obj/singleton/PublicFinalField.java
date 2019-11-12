@@ -1,6 +1,11 @@
 package chap2_creating_destroying_obj.singleton;
 
 public class PublicFinalField {
+
+    //The main advantage of the public field approach is that the declarations make it clear
+    // that the class is a singleton: the public static field is final, so it will
+    // always contain the same object reference
+
     static class Elvis {
 
         public static final Elvis INSTANCE = new Elvis();
