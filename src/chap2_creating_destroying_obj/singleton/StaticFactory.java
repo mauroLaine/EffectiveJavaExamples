@@ -19,5 +19,14 @@ public class StaticFactory {
         public void singVivaLasVegas() {
             System.out.println("bright light city...");
         }
+
+        //To maintain the singleton guarantee, you have to declare all instance fields transient
+        // and provide a readResolve method. Otherwise, each time a serialized instance is
+        // deserialized, a new instance will be created
+        private Object readResolve() {
+            // Return the one true Elvis and let the garbage collector
+            // take care of the Elvis impersonator.
+            return INSTANCE;
+        }
     }
 }
