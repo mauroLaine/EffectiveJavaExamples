@@ -1,8 +1,10 @@
-package chap2_creating_destroying_obj.singleton;
+package chap2_creating_and_destroying_obj.item3_singleton_property;
 
 public class TestSingletons {
 
     public static void main(String[] args) {
+
+        //*** Enforce the singleton property with a private constructor or an enum type ***
 
         //A singleton is simply a class that is instantiated exactly once
         //A single-element enum type is the best way to implement a singleton

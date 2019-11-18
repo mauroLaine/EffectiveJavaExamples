@@ -2,9 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7c77b1d-93a8-4429-b924-797778e5fc19" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/Enum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_and_destroying_obj/item1_use_static_factory_methods/TestStatics$Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_and_destroying_obj/item1_use_static_factory_methods/TestStatics.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_and_destroying_obj/item2_use_builder_pattern/BuilderPattern$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_and_destroying_obj/item2_use_builder_pattern/BuilderPattern$NutritionFacts$Builder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_and_destroying_obj/item2_use_builder_pattern/BuilderPattern$NutritionFacts.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_and_destroying_obj/item2_use_builder_pattern/BuilderPattern.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_and_destroying_obj/item2_use_builder_pattern/JavaBeans.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_and_destroying_obj/item2_use_builder_pattern/Telescoping.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_and_destroying_obj/item3_singleton_property/Enum$Elvis.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_and_destroying_obj/item3_singleton_property/Enum.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_and_destroying_obj/item3_singleton_property/PublicFinalField.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_and_destroying_obj/item3_singleton_property/StaticFactory$Elvis.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_and_destroying_obj/item3_singleton_property/StaticFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_and_destroying_obj/item3_singleton_property/TestSingletons.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item1_use_static_factory_methods/TestStatics.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_destroying_obj/constructor_parameters/BuilderPattern$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_destroying_obj/constructor_parameters/BuilderPattern$NutritionFacts$Builder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_destroying_obj/constructor_parameters/BuilderPattern$NutritionFacts.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_destroying_obj/constructor_parameters/BuilderPattern.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_destroying_obj/constructor_parameters/JavaBeans.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_destroying_obj/constructor_parameters/Telescoping.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_destroying_obj/singleton/Enum$Elvis.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_destroying_obj/singleton/Enum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_destroying_obj/singleton/PublicFinalField.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_destroying_obj/singleton/StaticFactory$Elvis.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_destroying_obj/singleton/StaticFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_destroying_obj/singleton/TestSingletons.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_destroying_obj/constructor_parameters/JavaBeans$NutritionFacts.class" afterPath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_and_destroying_obj/item2_use_builder_pattern/JavaBeans$NutritionFacts.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_destroying_obj/constructor_parameters/Telescoping$NutritionFacts.class" afterPath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_and_destroying_obj/item2_use_builder_pattern/Telescoping$NutritionFacts.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_destroying_obj/singleton/PublicFinalField$Elvis.class" afterPath="$PROJECT_DIR$/out/production/EffectiveJavaExamples/chap2_creating_and_destroying_obj/item3_singleton_property/PublicFinalField$Elvis.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/chap2_creating_destroying_obj/constructor_parameters/BuilderPattern.java" afterPath="$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item2_use_builder_pattern/BuilderPattern.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/chap2_creating_destroying_obj/constructor_parameters/JavaBeans.java" afterPath="$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item2_use_builder_pattern/JavaBeans.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/chap2_creating_destroying_obj/constructor_parameters/Telescoping.java" afterPath="$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item2_use_builder_pattern/Telescoping.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/Enum.java" afterPath="$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item3_singleton_property/Enum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/PublicFinalField.java" afterPath="$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item3_singleton_property/PublicFinalField.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/StaticFactory.java" afterPath="$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item3_singleton_property/StaticFactory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/TestSingletons.java" afterPath="$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item3_singleton_property/TestSingletons.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/TestSingletons.java" afterPath="$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/TestSingletons.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,83 +52,93 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Telescoping.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/constructor_parameters/Telescoping.java">
+        <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item2_use_builder_pattern/Telescoping.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-436">
-              <caret line="9" column="70" lean-forward="false" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestStatics.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item1_use_static_factory_methods/TestStatics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+              <folding>
+                <element signature="e#1611#1612#0" expanded="true" />
+                <element signature="e#1651#1652#0" expanded="true" />
+                <element signature="e#1694#1695#0" expanded="true" />
+                <element signature="e#1744#1745#0" expanded="true" />
+                <element signature="e#1788#1789#0" expanded="true" />
+                <element signature="e#1839#1840#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestSingletons.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item3_singleton_property/TestSingletons.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="83" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="PublicFinalField.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/PublicFinalField.java">
+        <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item3_singleton_property/PublicFinalField.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <element signature="e#469#470#0" expanded="true" />
-                <element signature="e#533#534#0" expanded="true" />
-                <element signature="e#575#576#0" expanded="true" />
-                <element signature="e#641#642#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestSingletons.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/TestSingletons.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="StaticFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/StaticFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item3_singleton_property/StaticFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="233">
               <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="20" selection-end-column="9" />
               <folding>
-                <element signature="e#432#433#0" expanded="true" />
-                <element signature="e#471#472#0" expanded="true" />
-                <element signature="e#513#514#0" expanded="true" />
-                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#532#533#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Enum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/Enum.java">
+        <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item3_singleton_property/Enum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
               <folding>
-                <element signature="e#383#384#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#468#469#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="BuilderPattern.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/constructor_parameters/BuilderPattern.java">
+        <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item2_use_builder_pattern/BuilderPattern.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="-117">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="JavaBeans.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/constructor_parameters/JavaBeans.java">
+        <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item2_use_builder_pattern/JavaBeans.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-496">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="105">
+              <caret line="7" column="75" lean-forward="true" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
               <folding />
             </state>
           </provider>
@@ -129,12 +174,18 @@
         <option value="$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/StaticFactory.java" />
         <option value="$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/Enum.java" />
         <option value="$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/TestSingletons.java" />
+        <option value="$PROJECT_DIR$/src/chap2_creating_destroying_obj/item3_singleton_property/TestSingletons.java" />
+        <option value="$PROJECT_DIR$/src/chap2_creating_destroying_obj/item2_use_builder_for_many_constructor_parameters/BuilderPattern.java" />
+        <option value="$PROJECT_DIR$/src/chap2_creating_destroying_obj/item2_use_builder_pattern/BuilderPattern.java" />
+        <option value="$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item2_use_builder_pattern/BuilderPattern.java" />
+        <option value="$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item1_use_static_factory_methods/TestStatics.java" />
+        <option value="$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item2_use_builder_pattern/JavaBeans.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="27" />
-    <option name="y" value="275" />
+    <option name="x" value="25" />
+    <option name="y" value="127" />
     <option name="width" value="1315" />
     <option name="height" value="651" />
   </component>
@@ -155,8 +206,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,27 +224,34 @@
               <item name="EffectiveJavaExamples" type="b2602c69:ProjectViewProjectNode" />
               <item name="EffectiveJavaExamples" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chap2_creating_destroying_obj" type="462c0819:PsiDirectoryNode" />
+              <item name="chap2_creating_and_destroying_obj" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="EffectiveJavaExamples" type="b2602c69:ProjectViewProjectNode" />
               <item name="EffectiveJavaExamples" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chap2_creating_destroying_obj" type="462c0819:PsiDirectoryNode" />
-              <item name="constructor_parameters" type="462c0819:PsiDirectoryNode" />
+              <item name="chap2_creating_and_destroying_obj" type="462c0819:PsiDirectoryNode" />
+              <item name="item1_use_static_factory_methods" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="EffectiveJavaExamples" type="b2602c69:ProjectViewProjectNode" />
               <item name="EffectiveJavaExamples" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chap2_creating_destroying_obj" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="chap2_creating_and_destroying_obj" type="462c0819:PsiDirectoryNode" />
+              <item name="item2_use_builder_pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EffectiveJavaExamples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EffectiveJavaExamples" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chap2_creating_and_destroying_obj" type="462c0819:PsiDirectoryNode" />
+              <item name="item3_singleton_property" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -208,15 +266,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestSingletons">
+  <component name="RunManager" selected="Application.TestStatics">
     <configuration name="BuilderPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="chap2_creating_destroying_obj.constructor_parameters.*" />
+          <option name="PATTERN" value="chap2_creating_and_destroying_obj.item2_use_builder_pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="chap2_creating_destroying_obj.constructor_parameters.BuilderPattern" />
+      <option name="MAIN_CLASS_NAME" value="chap2_creating_and_destroying_obj.item2_use_builder_pattern.BuilderPattern" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -231,11 +289,11 @@
     <configuration name="JavaBeans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="chap2_creating_destroying_obj.constructor_parameters.*" />
+          <option name="PATTERN" value="chap2_creating_and_destroying_obj.item2_use_builder_pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="chap2_creating_destroying_obj.constructor_parameters.JavaBeans" />
+      <option name="MAIN_CLASS_NAME" value="chap2_creating_and_destroying_obj.item2_use_builder_pattern.JavaBeans" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -250,11 +308,11 @@
     <configuration name="Telescoping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="chap2_creating_destroying_obj.constructor_parameters.*" />
+          <option name="PATTERN" value="chap2_creating_and_destroying_obj.item2_use_builder_pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="chap2_creating_destroying_obj.constructor_parameters.Telescoping" />
+      <option name="MAIN_CLASS_NAME" value="chap2_creating_and_destroying_obj.item2_use_builder_pattern.Telescoping" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -269,11 +327,30 @@
     <configuration name="TestSingletons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="chap2_creating_destroying_obj.singleton.*" />
+          <option name="PATTERN" value="chap2_creating_and_destroying_obj.item3_singleton_property.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="chap2_creating_destroying_obj.singleton.TestSingletons" />
+      <option name="MAIN_CLASS_NAME" value="chap2_creating_and_destroying_obj.item3_singleton_property.TestSingletons" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="EffectiveJavaExamples" />
+      <envs />
+    </configuration>
+    <configuration name="TestStatics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="chap2_creating_and_destroying_obj.item1_use_static_factory_methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="chap2_creating_and_destroying_obj.item1_use_static_factory_methods.TestStatics" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -366,18 +443,20 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Telescoping" />
       <item index="1" class="java.lang.String" itemvalue="Application.JavaBeans" />
       <item index="2" class="java.lang.String" itemvalue="Application.BuilderPattern" />
       <item index="3" class="java.lang.String" itemvalue="Application.TestSingletons" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestStatics" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestSingletons" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BuilderPattern" />
-        <item index="2" class="java.lang.String" itemvalue="Application.JavaBeans" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Telescoping" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.TestStatics" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestSingletons" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BuilderPattern" />
+        <item index="3" class="java.lang.String" itemvalue="Application.JavaBeans" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Telescoping" />
       </list>
     </recent_temporary>
   </component>
@@ -400,7 +479,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="27" y="275" width="1315" height="651" extended-state="0" />
+    <frame x="25" y="127" width="1315" height="651" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -410,18 +490,18 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3291367" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3291367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291367" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23741007" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25373134" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -438,7 +518,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/constructor_parameters/Telescoping.java">
+    <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item2_use_builder_pattern/Telescoping.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
@@ -446,7 +526,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/constructor_parameters/BuilderPattern.java">
+    <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item2_use_builder_pattern/BuilderPattern.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -454,7 +534,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/constructor_parameters/JavaBeans.java">
+    <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item2_use_builder_pattern/JavaBeans.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -462,72 +542,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/constructor_parameters/BuilderPattern.java">
+    <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item2_use_builder_pattern/Telescoping.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/constructor_parameters/JavaBeans.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-496">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/constructor_parameters/Telescoping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-436">
-          <caret line="9" column="70" lean-forward="false" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/PublicFinalField.java">
+    <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item2_use_builder_pattern/JavaBeans.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-          </folding>
+          <caret line="7" column="75" lean-forward="true" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/StaticFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item2_use_builder_pattern/BuilderPattern.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="20" selection-end-column="9" />
-          <folding>
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-117">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/Enum.java">
+    <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item3_singleton_property/Enum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding>
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap2_creating_destroying_obj/singleton/TestSingletons.java">
+    <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item3_singleton_property/PublicFinalField.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item3_singleton_property/StaticFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item3_singleton_property/TestSingletons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="83" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item1_use_static_factory_methods/TestStatics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <element signature="e#1611#1612#0" expanded="true" />
+            <element signature="e#1651#1652#0" expanded="true" />
+            <element signature="e#1694#1695#0" expanded="true" />
+            <element signature="e#1744#1745#0" expanded="true" />
+            <element signature="e#1788#1789#0" expanded="true" />
+            <element signature="e#1839#1840#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

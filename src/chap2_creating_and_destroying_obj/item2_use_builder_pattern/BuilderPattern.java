@@ -1,8 +1,10 @@
-package chap2_creating_destroying_obj.constructor_parameters;
+package chap2_creating_and_destroying_obj.item2_use_builder_pattern;
 
 public class BuilderPattern {
 
     public static void main(String[] args) {
+
+        //*** Consider a builder when faced with many constructor parameters ***
 
         //Note that NutritionFacts is immutable, and that all parameter default values are in a single location
         // The Builder pattern is flexible. A single builder can be used to build multiple objects

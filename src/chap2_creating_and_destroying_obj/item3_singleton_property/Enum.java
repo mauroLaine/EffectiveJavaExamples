@@ -1,4 +1,4 @@
-package chap2_creating_destroying_obj.singleton;
+package chap2_creating_and_destroying_obj.item3_singleton_property;
 
 public class Enum {
 

@@ -1,11 +1,11 @@
-package chap2_creating_destroying_obj.constructor_parameters;
+package chap2_creating_and_destroying_obj.item2_use_builder_pattern;
 
 public class JavaBeans {
 
     public static void main(String[] args) {
 
         //JavaBeans Pattern - allows inconsistency, mandates mutability, a JavaBean object
-        // may be in an inconsistent state partway through its construction.
+        // may be in an inconsistent state partway through its construction
 
         final NutritionFacts fries = new NutritionFacts();
         fries.setServingSize(240);
