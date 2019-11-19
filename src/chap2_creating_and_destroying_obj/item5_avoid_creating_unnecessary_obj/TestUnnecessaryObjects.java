@@ -10,8 +10,20 @@ public class TestUnnecessaryObjects {
 
 //        testStrings();
 
-        testStaticInitialization();
+//        testStaticInitialization();
 
+        testAutoboxing();
+
+    }
+
+    private static void testAutoboxing() {
+        //Prefer primitives to boxed primitives, and watch out for unintentional autoboxing
+//        Long sum = 0L;
+        long sum = 0L;
+        for (int i = 0; i < Integer.MAX_VALUE; i++) {
+            sum += i;
+        }
+        System.out.println(sum);
     }
 
     private static void testStaticInitialization() {
