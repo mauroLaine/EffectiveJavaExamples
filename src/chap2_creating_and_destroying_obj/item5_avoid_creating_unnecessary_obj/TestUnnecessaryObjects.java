@@ -1,7 +1,6 @@
 package chap2_creating_and_destroying_obj.item5_avoid_creating_unnecessary_obj;
 
 import java.util.Calendar;
-import java.util.Date;
 
 public class TestUnnecessaryObjects {
 
@@ -15,6 +14,7 @@ public class TestUnnecessaryObjects {
         calendar.set(1945, Calendar.JANUARY, 1, 0, 0);
         final Person p1 = new Person(calendar.getTime());
         System.out.println(p1.isBabyBoomer());
+        System.out.println(p1.isBadBabyBoomer());
 
     }
 
