@@ -12,6 +12,8 @@ public class TestStatics {
         // + One advantage of static factory methods is that, unlike constructors, they have names
         // + A second advantage of static factory methods is that, unlike constructors, they are not
         //      required to create a new object each time they’re invoked
+        //      (The constructor creates a new object each time it’s called, while the static factory
+        //          method is never required to do so and won’t in practice)
         // + A third advantage of static factory methods is that, unlike constructors, they can return an
         //      object of any subtype of their return type
         // - The main disadvantage of providing only static factory methods is that classes without
