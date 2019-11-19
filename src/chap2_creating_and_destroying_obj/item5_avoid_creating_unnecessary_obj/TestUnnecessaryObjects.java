@@ -10,15 +10,20 @@ public class TestUnnecessaryObjects {
 
 //        testStrings();
 
-        final Calendar calendar = Calendar.getInstance();
-        calendar.set(1945, Calendar.JANUARY, 1, 0, 0);
-        final Person p1 = new Person(calendar.getTime());
-        System.out.println(p1.isBabyBoomer());
-        System.out.println(p1.isBadBabyBoomer());
+        testStaticInitialization();
 
     }
 
-    static void testStrings() {
+    private static void testStaticInitialization() {
+        final Calendar calendar = Calendar.getInstance();
+        calendar.set(1945, Calendar.JANUARY, 1, 0, 0);
+
+        final Person p1 = new Person(calendar.getTime());
+        System.out.println(p1.isBadBabyBoomer());
+        System.out.println(p1.isBabyBoomer());
+    }
+
+    private static void testStrings() {
 
         //DON'T DO THIS!
         //The statement creates a new String instance each time it is executed, and none of those

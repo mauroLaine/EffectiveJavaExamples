@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7c77b1d-93a8-4429-b924-797778e5fc19" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item5_avoid_creating_unnecessary_obj/Person.java" afterPath="$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item5_avoid_creating_unnecessary_obj/Person.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item5_avoid_creating_unnecessary_obj/TestUnnecessaryObjects.java" afterPath="$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item5_avoid_creating_unnecessary_obj/TestUnnecessaryObjects.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item5_avoid_creating_unnecessary_obj/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+            <state relative-caret-position="304">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#831#832#0" expanded="true" />
@@ -31,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestUnnecessaryObjects.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestUnnecessaryObjects.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item5_avoid_creating_unnecessary_obj/TestUnnecessaryObjects.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -79,8 +78,8 @@
         <option value="$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item4_enforce_noninstantiability/TestNoninstantiability.java" />
         <option value="$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item4_enforce_noninstantiability/Util.java" />
         <option value="$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item1_use_static_factory_methods/TestStatics.java" />
-        <option value="$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item5_avoid_creating_unnecessary_obj/TestUnnecessaryObjects.java" />
         <option value="$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item5_avoid_creating_unnecessary_obj/Person.java" />
+        <option value="$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item5_avoid_creating_unnecessary_obj/TestUnnecessaryObjects.java" />
       </list>
     </option>
   </component>
@@ -681,18 +680,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item5_avoid_creating_unnecessary_obj/TestUnnecessaryObjects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item5_avoid_creating_unnecessary_obj/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        <state relative-caret-position="304">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#831#832#0" expanded="true" />
@@ -700,6 +691,14 @@
             <element signature="e#1563#1564#0" expanded="true" />
             <element signature="e#1659#1660#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chap2_creating_and_destroying_obj/item5_avoid_creating_unnecessary_obj/TestUnnecessaryObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
