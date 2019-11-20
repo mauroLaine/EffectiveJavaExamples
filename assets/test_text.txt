@@ -1,0 +1,8 @@
+An obsolete reference is simply a refer- ence that will never be dereferenced again.
+In this case, any references outside of the “active portion” of the element array are obsolete.
+
+Memory leaks in garbage-collected languages (more properly known as unin- tentional object retentions) are
+insidious. If an object reference is unintentionally retained, not only is that object excluded from garbage
+collection, but so too are any objects referenced by that object, and so on. Even if only a few object
+refer- ences are unintentionally retained, many, many objects may be prevented from being garbage collected,
+with potentially large effects on performance.
